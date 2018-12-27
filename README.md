@@ -1,1 +1,1 @@
-# spam-bot
+# Credits-bot
