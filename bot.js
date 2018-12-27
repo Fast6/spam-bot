@@ -10,7 +10,6 @@ var channel = "411568552722694155";//ايدي الروم
     },305);
 })
 
-client.login(process.env.BOT_TOKEN);
 client2.on('ready', async() => {
 var server = "411555917482426368"; // ايدي السررفر
 var channel = "411570017818116096";//ايدي الروم
@@ -18,3 +17,6 @@ var channel = "411570017818116096";//ايدي الروم
     client2.guilds.get(server).channels.get(channel).send('** Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz**')
     },305);
     })
+
+client.login(process.env.BOT_TOKEN);
+client2.login(process.env.BOT_TOKEN2);
