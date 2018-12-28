@@ -36,8 +36,8 @@ var channel = "411579989918482434";//ايدي الروم
     },305);
 })
 client5.on('ready', async() => {
-var server = "515229161804267520"; // ايدي السررفر
-var channel = "515230042536804353";//ايدي الروم
+var server = "411555917482426368"; // ايدي السررفر
+var channel = "528110648962449420";//ايدي الروم
     setInterval(()=>{
     client5.guilds.get(server).channels.get(channel).send('** Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz Azoz**')
     },305);
